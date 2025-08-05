@@ -70,7 +70,7 @@ Example of segmented dataset:
 **Project Structure**
 
 customer-segmentation
-│
+
 ├── 📄 k-means-customer-segmentation.ipynb  
 
 ├── 📄 k means data.csv
